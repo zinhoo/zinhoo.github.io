@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35a49ab9-051a-401d-8428-0cdb097cfcca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/research_pdfs/2023_ESPRITECH_Market_preview_SVB.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research_pdfs/20200204_Espritech_Quantative_Research.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/research_pdfs/20200204_Espritech_Quantative_Research.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +140,7 @@
       <workItem from="1583186562888" duration="206000" />
       <workItem from="1583356885364" duration="697000" />
       <workItem from="1640590218045" duration="369000" />
-      <workItem from="1678649205832" duration="548000" />
+      <workItem from="1678649205832" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <created>1578857643486</created>
